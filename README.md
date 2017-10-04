@@ -10,11 +10,11 @@ relies on old plugin Vaadin for grails2 (already migrated to grails 3), instead 
 a profile created by "me.przepiora", it takes advantage of the vaadin plugin
 for gradle (underneath uses "com.devsoap.plugin.vaadin" plugin)
 
-[![Users view](https://github.com/grails-coder/rria/images/users.png)]
+![Users view](https://github.com/grails-coder/rria/blob/master/images/users.png)
 
-[![New User](https://github.com/grails-coder/rria/images/new-user.png)]
+![New User](https://github.com/grails-coder/rria/blob/master/images/new-user.png)
 
-[![Login Details](https://github.com/grails-coder/rria/images/login-details.png)]
+![Login Details](https://github.com/grails-coder/rria/blob/master/images/login-details.png)
 
 
 # What's inside
